@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Peter Tuan Anh
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning js, py
+- 🤖 Owner AIO Bot
