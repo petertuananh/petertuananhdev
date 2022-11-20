@@ -1,10 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/786569661231005716)](https://discord.com/users/786569661231005716)
 
-
-<div align="center">
-  <a href="https://discord.com/users/786569661231005716">
-    <img src="https://lanyard.cnrad.dev/api/786569661231005716?theme=dark&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)"><img src="https://cdn.discordapp.com/attachments/934131184886231130/1043682554231930900/Subway_Camille_Unknown.gif" width="375" style="border-radius:50%">
-  </a>
-</div>
 
 
 # 💻Tech Stack
